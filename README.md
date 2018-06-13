@@ -17,15 +17,14 @@ change following three files:
 <br/>
 
 ### step 2.
-complie
+CAFFE_ROOT_PATH/build complie
 
-
-<br/>
 ```C++
 　 $CAFFE_ROOT/build$ make
 ```
 
 if you using "make runtest" display error, you can ignore error message <br/>
+
 
 
 ### step 3.
@@ -123,7 +122,7 @@ layer {
 .
 
 ```
-
+<br/>
 
 **- train.txt / val.txt**
 
@@ -135,6 +134,7 @@ YOUR_IMAGES_PATH/xxx_3.jpg 1 0 3 2
 .
 .
 ```
+<br/>
 
 **- deploy.prototxt**
 
