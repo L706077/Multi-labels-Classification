@@ -50,7 +50,7 @@ layer {
   }    
   image_data_param {    
     source: "/home/mark/data/train.txt"    
-    root_folder: "/home/mark/data/"    
+### root_folder: "/home/mark/data/"  ### according your train.txt images path   
     new_height: 60    
     new_width: 160    
     is_color: true    
