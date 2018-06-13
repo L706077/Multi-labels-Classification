@@ -1,7 +1,11 @@
 # Multi-labels-Classification
 
-- [reference](https://blog.csdn.net/sushiqian/article/details/78763514)
-
+- [this method reference1](https://blog.csdn.net/sushiqian/article/details/78763514)
+- [this method reference2](https://blog.csdn.net/u013010889/article/details/54614067)
+- [method2_1](https://blog.csdn.net/hubin232/article/details/50960201)
+- [method2_2](https://blog.csdn.net/baobei0112/article/details/47606559)
+- [method3](https://blog.csdn.net/Mr_Curry/article/details/54629129?locationNum=14&fps=1)
+- [other method reference](https://blog.csdn.net/qq295456059/article/details/78428275)
 
 ## method1
 
