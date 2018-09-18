@@ -29,7 +29,9 @@ CAFFE_ROOT_PATH/build complie
 
 if you using "make runtest" display error, you can ignore error message <br/>
 
-
+```C++
+Check failed: cv_img.data Could not load examples/images/cat
+```
 
 ### step 3.
 
